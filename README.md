@@ -3,7 +3,7 @@
 This project demonstrates various HTML tags and their usage through a simple web page.
 
 
-##HTML History
+## HTML History
 
 ### HTML 1.0
 - **Release Date**: 1991
