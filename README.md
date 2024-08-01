@@ -109,7 +109,7 @@ Clone the repository and open `index.html` in a web browser to see the web page 
 git clone https://github.com/usaikoo/html_note.git
 cd html_note
 
-
+```
 
 
 
