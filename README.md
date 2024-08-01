@@ -2,6 +2,32 @@
 
 This project demonstrates various HTML tags and their usage through a simple web page.
 
+
+## HTML History
+
+### HTML 1.0
+- **Release Date**: 1991
+- **Overview**: The first version of HTML, created by Tim Berners-Lee, defined the basic structure of web pages with elements such as headings, paragraphs, and links.
+
+### HTML 2.0
+- **Release Date**: 1995
+- **Overview**: Introduced forms, tables, and the ability to embed images. HTML 2.0 was the first formal specification.
+
+### HTML 3.2
+- **Release Date**: 1997
+- **Overview**: Added support for style sheets (CSS), tables, and scripting languages like JavaScript. This version also introduced new elements like `<font>` and `<center>`.
+
+### HTML 4.0
+- **Release Date**: 1999
+- **Overview**: Marked a significant update with the introduction of the Document Object Model (DOM), support for more complex styles with CSS, and the separation of content from presentation. HTML 4.01, released in 2001, was a minor update to HTML 4.0.
+
+### HTML5
+- **Release Date**: 2014 (Final Recommendation)
+- **Overview**: The latest version of HTML, it introduced new semantic elements like `<article>`, `<section>`, and `<footer>`, as well as new form controls and APIs for audio, video, and offline storage. HTML5 emphasizes compatibility and user experience across various devices.
+
+
+
+
 ## HTML Tags Used
 
 ### Document Structure
