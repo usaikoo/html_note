@@ -108,3 +108,101 @@ Clone the repository and open `index.html` in a web browser to see the web page 
 ```bash
 git clone https://github.com/usaikoo/html_note.git
 cd html_note
+
+
+
+
+
+
+
+# HTML Quiz
+
+Test your knowledge of HTML with the following questions.
+
+### Questions
+
+1. **What does the `<DOCTYPE html>` declaration do?**
+   - a) It defines the document type and version of HTML.
+   - b) It specifies the language of the document.
+   - c) It adds a title to the web page.
+
+2. **Which tag is used to create a hyperlink?**
+   - a) `<link>`
+   - b) `<a>`
+   - c) `<url>`
+
+3. **How do you define an ordered list in HTML?**
+   - a) `<ul>`
+   - b) `<ol>`
+   - c) `<list>`
+
+4. **Which tag is used to embed an image in an HTML document?**
+   - a) `<image>`
+   - b) `<img>`
+   - c) `<picture>`
+
+5. **What is the purpose of the `<form>` tag?**
+   - a) To create a section of the page.
+   - b) To gather user input.
+   - c) To define a hyperlink.
+
+6. **How can you add a comment in HTML?**
+   - a) `<!-- This is a comment -->`
+   - b) `/* This is a comment */`
+   - c) `# This is a comment`
+
+7. **Which tag is used for emphasizing text?**
+   - a) `<strong>`
+   - b) `<em>`
+   - c) `<highlight>`
+
+8. **What does the `<table>` tag represent in HTML?**
+   - a) A table structure for displaying data.
+   - b) A list of items.
+   - c) A section of the page.
+
+9. **Which attribute is used to define the alternative text for an image?**
+   - a) `src`
+   - b) `href`
+   - c) `alt`
+
+10. **What is the function of the `<input>` tag in an HTML form?**
+    - a) To create a text box for user input.
+    - b) To define a section of the page.
+    - c) To display a video.
+
+
+
+
+# HTML Quiz Answers
+
+1. **What does the `<DOCTYPE html>` declaration do?**
+   - **Answer:** a) It defines the document type and version of HTML.
+
+2. **Which tag is used to create a hyperlink?**
+   - **Answer:** b) `<a>`
+
+3. **How do you define an ordered list in HTML?**
+   - **Answer:** b) `<ol>`
+
+4. **Which tag is used to embed an image in an HTML document?**
+   - **Answer:** b) `<img>`
+
+5. **What is the purpose of the `<form>` tag?**
+   - **Answer:** b) To gather user input.
+
+6. **How can you add a comment in HTML?**
+   - **Answer:** a) `<!-- This is a comment -->`
+
+7. **Which tag is used for emphasizing text?**
+   - **Answer:** b) `<em>`
+
+8. **What does the `<table>` tag represent in HTML?**
+   - **Answer:** a) A table structure for displaying data.
+
+9. **Which attribute is used to define the alternative text for an image?**
+   - **Answer:** c) `alt`
+
+10. **What is the function of the `<input>` tag in an HTML form?**
+    - **Answer:** a) To create a text box for user input.
+
