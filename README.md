@@ -80,5 +80,6 @@ This project demonstrates various HTML tags and their usage through a simple web
 Clone the repository and open `index.html` in a web browser to see the web page in action.
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+[git clone https://github.com/yourusername/your-repository.git
+](https://github.com/usaikoo/html_note.git)
+cd html_note
